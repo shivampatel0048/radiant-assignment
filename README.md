@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Deployed link -> ([Demo](https://radiant-assignment-shivampatel.netlify.app/)).
+Deployed link -> [(https://radiant-assignment-shivampatel.netlify.app)](https://radiant-assignment-shivampatel.netlify.app/).
 
 ## Available Scripts
 
